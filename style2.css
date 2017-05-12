@@ -1,5 +1,6 @@
 body{
 	text-align: left;
+	background-color: #01DFD7 ;
 }
 
 p{
@@ -15,25 +16,24 @@ p{
 h1{
 	font-weight: bold;
 	font-size: xx-large;
-	color: darkgray;
+	color: #000000;
 }
 
 h2{
 	font-size: x-large;
-	color: gray;
+	color: #000000;
 	background-color: beige;
 }
 
 h3{
 	font-weight: bold;
-	color: gray;
+	color: #000000;
 }
-
 
 a:link { color: blue;}
 a:visited { color: blue;}
 a:active { color: blue;}
 a:hover { color: red;}
 
-dl.rireki { color: white; background-color: #044; }
-dl.license { color: white; background-color: #404; }
+dl.rireki { color: white; background-color:#9A2EFE; }
+dl.license { color: white; background-color: blue; }

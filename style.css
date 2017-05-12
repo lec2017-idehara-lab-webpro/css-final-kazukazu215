@@ -1,12 +1,7 @@
-body{
-	text-align: center;
-}
-
 h1{
-	text-align: justify;
 	font-weight: bold;
-	font-size: large;
-	color: crimson;
+	color: blue;
+	font-size:200%;
 }
 
 h2{
@@ -21,6 +16,11 @@ h3{
 	color: mediumvioletred;
 	text-align: justify;
 }
+
+.menu{
+
+}
+
 
 a:link { color: blue; text-decoration: none;}
 a:visited { color: blue; text-decoration: none;}
